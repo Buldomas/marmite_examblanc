@@ -37,12 +37,14 @@ h3 {
 	margin: 10px;
 	padding: 10px;
 	border-radius: 15px;
+	cursor: pointer;
 }
 .menu2 {
 	border: 1px white solid;
 	margin: 10px;
 	padding: 10px;
 	border-radius: 15px;
+	cursor: pointer;
 }
 .entete {
 	width: 100%;
@@ -80,6 +82,9 @@ h3 {
 }
 .card3 {
 	background-color: #c3371e;
+}
+.card3 span {
+	font-size: 25pt;
 }
 footer {
 	min-height: 50px;
